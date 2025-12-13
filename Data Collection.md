@@ -11,3 +11,4 @@ Case Study Insights
 Collaboration and Automation
 - Database Administrators (DBAs) and programmers work together to extract and merge data, eliminating redundancy.
 - Discussions on data management can lead to automating processes for easier and faster data collection.
+In the initial data collection stage, data scientists identify and gather the available data resources. These can be in the form of structured, unstructured, and even semi-structured data relevant to the problem domain.
