@@ -1,7 +1,10 @@
     Data Requirements
 
 
+
 Data Requirements in Data Science
+Data Requirements stage tasks include identifying the correct and necessary data content, data formats, and data sources for the specific analytical approach.
+
 - Emphasizes the analogy of cooking, where data is likened to ingredients necessary for a successful outcome.
 - Highlights the need to identify required data content, formats, and sources before data collection and preparation.
 
