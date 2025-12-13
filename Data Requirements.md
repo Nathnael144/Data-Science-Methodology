@@ -12,3 +12,4 @@ Case Study Example
 Data Preparation for Decision Tree Classification
 - Describes the necessity of structuring data into a specific format, with one record per patient and relevant variables.
 - Explains the process of rolling up transactional records to create a patient-level dataset, anticipating future data preparation stages.
+Identifying the required data fulfills the data requirements stage of the data science methodology.
